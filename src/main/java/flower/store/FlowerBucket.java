@@ -20,5 +20,6 @@ public class FlowerBucket extends Item {
     }
 
     public void add(FlowerPack flowerPack) {
+        flowerPacks.add(flowerPack);
     }
 }
